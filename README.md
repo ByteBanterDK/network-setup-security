@@ -157,8 +157,32 @@ Benefits:
 - Seamless Communication: Ensures applications like VoIP work properly through NAT.
 - Enhanced Security: Inspects specific protocols for better security.
 - Improved Performance: Optimises connections and data integrity.
-
-
+<img src="https://i.imgur.com/e40UaMV.png">
+For this demonstration, we won't go through the entire process of setting up an OpenVPN on the router. However, I will show you a website where you can start, First is to enable the "OpenVPN":
+<img src="https://i.imgur.com/MxJUVHc.png">
+Then generate a certificate could take up to couple of minutes:
+<img src="https://i.imgur.com/6Gu0NM4.png">
+The webiste you can setup is called OpenVPN, this will allow you to have a VPN on your router and any devices even guests will have more privacy and security:
+<img src="https://i.imgur.com/39M5reR.png">
+PPTP (Point-to-Point Tunneling Protocol) is an older VPN protocol that's easy to set up and has lower overhead, making it faster. However, it has weaker security compared to newer protocols, so it's generally not recommended for secure communications.
+<img src="https://i.imgur.com/782B6Tk.png">
+IPv6 is crucial for expanding internet capacity and helpful to increase number of connected devices, offering improved security and performance compared to IPv4, click on interent connection type, and pick 6to4 tunnel for this demonstration:
+<img src="https://i.imgur.com/oWzCXSq.png">
+You can see, checking your wifi status it show's no "IPV6 Connectivity":
+<img src="https://i.imgur.com/LFUBv88.png">
+When IPV6 is turned on and choosing 6to4 Tunnel, You would have to click on connect for it to work and your IPV6 address will pop up:
+<img src="https://i.imgur.com/wPoHS9o.png">
+<img src="https://i.imgur.com/NEb0t6U.png">
+EasyMesh is beneficial because it allows for seamless integration and management of multiple Wi-Fi access points within a network, ensuring consistent coverage and performance throughout the entire area:
+<img src="https://i.imgur.com/Y8xNRJM.png">
+You can purchase them for cheap price online just searching up easymesh:
+<img src="https://i.imgur.com/hnH8Zqv.png">
+Navigating into the systems settings, click on administration now you have the optioin to change your router's local management password also setup "local management":
+<img src="https://i.imgur.com/8t8zHSm.png">
+Setting up local management is beneficial as it enables users to configure and monitor their network devices directly from within their local network, providing greater control and flexibility over network settings and security features.
+<img src="https://i.imgur.com/KiouGjA.png">
+To setup a QR code you would need to Navigate back to wireless settings then next to your wifi, click on share network and you can save it even on your moblie device, or print it out, letting your guests come through your door and scan the QR code for that specific network:
+<img src="https://i.imgur.com/a3sQ6ji.png">
 Finally Let's setup the TP-Link on the moblie device Procced to download TP-Link Tether on app store or google play store for this demonstrate it's going to be for app store:
 <img src="https://i.imgur.com/vSlUjFT.png">
 <br />
@@ -189,3 +213,4 @@ Leave the MAC Address, then it will load all the settings you have just configur
 <img src="https://i.imgur.com/O69CCl0.png">
 Now you have access to the router on your moblie device:
 <img src="https://i.imgur.com/aWK4ABU.png">
+<br/>
