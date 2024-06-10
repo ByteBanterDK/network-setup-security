@@ -34,8 +34,6 @@ You can see when <body> RESETED </body> the router it will be flashing lights, h
 <h3> Finally most imporant step</h3>
 Have look behind your router, we will need the Password/Pin to get into the wifi and have internet connection:
 <img src="https://i.imgur.com/yCZW87I.jpg">
-<br />
-<br />
 Turn on your computer, then click on the wifi symbol and you will find your router wifi SID, click on it enter your password/pin:
 <img src="https://i.imgur.com/UVwL3LK.jpg">
 When connected to your wifi, go on to your perferd search engine, then input your routers ip address you can find it online <body> Password would be admin</body> You can find the passwords for your routers online:
@@ -78,7 +76,6 @@ Below "Guest Network" their is option Wireless Schedule this is great feature if
 <img src="https://i.imgur.com/52F4xbT.png">
 <img src="https://i.imgur.com/Bqfhjqp.png">
 <img src="https://i.imgur.com/evwhrJF.png">
-<br />
 <br />
 Why WPS Should Be Turned Off
 WPS (Wi-Fi Protected Setup) should be turned off because it has known security vulnerabilities that can be exploited by attackers to gain access to your network, potentially leading to unauthorised usage and compromising network security.
