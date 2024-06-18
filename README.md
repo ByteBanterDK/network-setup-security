@@ -21,7 +21,6 @@ Hardware: ARCHER AX10 Router, Virgin Media Box
 Tools: Router's web interface, QR Code generation tools
 
 <h2>Program Walk-through:</h2>
-<br />
 <h2>Let's start off by setting up the ARCHER AX10 Router on the computer first. Procced to connect your ethernet cable router to your ISP</h2>
 <h5> Now go to your ISP for example BT, Virgin media or Sky. Then plug in the ethernet cable, that comes with your router into the Sky hub for example: </h5>
 <img src="https://i.imgur.com/qCwUNzX.jpg">
